@@ -1,0 +1,915 @@
+#EXTM3U
+
+#EXTINF:-1, 艾尔达
+http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1,NHK
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+#EXTINF:-1 ,NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 ,NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+#EXTINF:-1 ,NHK BS
+http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8
+#EXTINF:-1 ,NHK G720p
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
+#EXTINF:-1 ,TOKYO MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1 ,BS
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+#EXTINF:-1 ,关西
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/playlist.m3u8
+#EXTINF:-1 ,TOKYO MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 ,BS TV TOKYO
+http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8
+#EXTINF:-1 ,TV TOKYO
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1, nippon tv 540p
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1, FUJI TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1, ASAHI TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1, TBS TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1, BS FUJI TV
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
+#EXTINF:-1, BS NIPPON TV
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1, BS TOKYO TV
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
+#EXTINF:-1 , NIPPON NEWS
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 , NIPPON TV BS
+http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_720/playlist.m3u8
+#EXTINF:-1 ,Nittele G+ Sports & News (540p)
+https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8
+#EXTINF:-1 ,Disney Junior Japan (540p)
+https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
+#EXTINF:-1, Disney Channel Japan (540p),
+http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8
+#EXTINF:-1, KID STATION
+http://cdn.us195.jpnettv.live:1935/jptv/jkids_540/playlist.m3u8
+#EXTINF:-1 ,国家地理
+http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+#EXTINF:-1 ,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 ,bloomberg 4k
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,LOVE NATURAL 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,HBO 2 20p
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,HBO HD台湾
+http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 ,FOX 1080P
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.news.ca.m3u8
+#EXTINF:-1 ,BBC EARTH
+http://red.ipfox.org:8080/osama2022/osama2023/49056
+#EXTINF:-1, nippon tv
+http://cdn.us195.jpnettv.live:1935/jptv/kanto_nippon_720/playlist.m3u8
+#EXTINF:-1 , NIPPON TV
+https://cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8
+#EXTINF:-1 , NIPPON TV（2）
+https://cdnv148.cloudrsst.com/jptv/kanto_nippon_720/playlist.m3u8
+#EXTINF:-1 ,纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+#EXTINF:-1 ,纯享4K.备用
+http://[2409:8087:5c00:10:5::8a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+#EXTINF:-1 ,直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 ,CCTV4K 30p
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
+#EXTINF:-1 ,CCTV4K 30p
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV4K（1080p）
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,CCTV4K 25p
+http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+#EXTINF:-1 ,CCTV4K 失效
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+#EXTINF:-1 ,CCTV4K 50p压缩
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,CCTV4K.备用1080P
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,CCTV16-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&c=福建三明移动
+#EXTINF:-1 ,CCTV16-4K.备用
+http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV16-4K 18M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 ,CCTV16-4K 25M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 ,CCTV16-4K 34M2160HDR
+http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,欢笑剧场4K[3840*2160]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,SiTV欢笑剧场 12M2160
+http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 ,4K修复 7M2160HEVC
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,爱上4K
+http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4179594525_1038075197/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/10000100000000060000000000262129_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,爱上4K.备用
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,河南卫视4K测试
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 ,苏州4K频道
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,芒果娱乐4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1&c=福建三明移动
+#EXTINF:-1 ,北京东奥纪实4K
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dajs-4k_8000.m3u8
+#EXTINF:-1 ,赣州综合
+http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8
+#EXTINF:-1 ,江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8
+#EXTINF:-1 ,江西卫视.备用
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225669/index.m3u8
+#EXTINF:-1 ,江西新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西都市576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西经济生活
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西影视旅游576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西移动720P
+http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+#EXTINF:-1 ,陶瓷频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西教育576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,凤凰卫视HD
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://ott.mobaibox.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 ,凤凰资讯HD
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,凤凰香港
+http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 ,凤凰中文备用1
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,凤凰中文备用2
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰资讯备用1
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test2_4000.m3u8
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,凤凰资讯备用2
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,广东卫视高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EsFZ46mFNJb4XrlnNoWuN5w%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000001000000050000000000000374%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东经济科教高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221227238/10000100000000060000000000987130_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EyU3xvT9RGErxisUE0wkmkg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000001000000050000000000000375%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东体育高清-测试
+rtsp://125.88.52.18/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000001000000052014052600000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东珠江高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221229811/10000100000000060000000009467087_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EQRLIDngmxvSnsGioni22UA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052018092799000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,南方卫视高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020101699000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东影视高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221229939/10000100000000060000000011293286_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EF8Djf5I5I3zFotQpnhkjvw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020101699000002%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东公共高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221230072/10000100000000060000000011293287_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EJfOJh8kUHwkvOQkuZOyKkA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020101699000003%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东少儿高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221230010/10000100000000060000000011293288_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EBncdZ3rFEXgsm3o4YCdIFQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020101699000004%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东新闻高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221230032/320917528.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EgDBfCrlNs_X3qljSJ3njZQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020121799000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,嘉佳卡通高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221230108/320918166.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EQMKv77iZZS5C3cXdTI3GCg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020121799000002%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东综艺(4k)
+rtsp://125.88.52.18/PLTV/88888905/224/3221229717/10000100000000060000000008643415_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E5eD1tRLue3bsAGvSDf20HA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052017112999000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1,广东综艺 宽色域(4k)
+rtsp://125.88.52.18/PLTV/88888905/224/3221229726/10000100000000060000000008690808_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ej-3vZjczNuxD7dNSFr-bHA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052017120899000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+#EXTINF:-1 ,CCTV-13新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
+#EXTINF:-1 ,CCTV综合
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV综合.备用
+http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV财经
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1 ,CCTV财经.备用
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226249/index.m3u8?fmt=ts2hls
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 ,CCTV综艺.备用
+http://[2409:8087:1070:301:2028::1e]:80/wh7f454c46tw4200914459_582749386/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/10000100000000060000000000869061_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV国际
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV国际.备用
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226259/index.m3u8?fmt=ts2hls
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV体育.备用
+http://[2409:8087:1070:301:2028::1e]:80/wh7f454c46tw4201204269_1958960221/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/10000100000000060000000000869060_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV赛事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 ,CCTV赛事.备用
+http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 ,CCTV电影.备用
+http://[2409:8087:1070:301:2028::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV军事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8
+#EXTINF:-1 ,CCTV军事.备用
+http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV剧集
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,CCTV剧集.备用
+http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV纪录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 ,CCTV纪录.备用
+http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225919/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV科教
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8
+#EXTINF:-1 ,CCTV科教.备用
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV戏曲
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 ,CCTV戏曲.备用
+http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225867/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV法制
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8
+#EXTINF:-1 ,CCTV法制.备用
+http://[2409:8087:1070:301:2028::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV少儿.备用
+http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV音乐
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 ,CCTV音乐.备用
+http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV16-HD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
+http://livepull.sxiptv.cn/live/CCTV16.flv?txSecret=8c430bddc7d92ccd24b22f024d19d523&txTime=63b05c7f
+#EXTINF:-1 ,CCTV16-HD.备用
+http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-17 HD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 ,CCTV-17 HD.备用
+http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CGTN
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CGTN.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 ,CGTN记录
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,CGTN记录.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1,CETV1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CETV1.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 ,CETV2.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 ,CNC.720
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225693/index.m3u8
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 ,CNC中文.720
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8
+#EXTINF:-1 ,浙江卫视.备用
+http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225906/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 ,湖南卫视.备用
+http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063477/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,金鹰卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226246/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1 ,东方卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,纪实人文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:-1 ,北京卫视.备用
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225913/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,北京东奥纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 ,北京卡酷少儿.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8
+#EXTINF:-1 ,山东卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000067/main.m3u8
+#EXTINF:-1 ,山东教育.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 ,安徽卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001007000000063659/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 ,重庆卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/cqwsH265_4000.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 ,广东卫视.备用
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+#EXTINF:-1 ,嘉佳卡通.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 ,深圳卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/szwsH265_4000.m3u8
+http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000065/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8
+#EXTINF:-1 ,江苏卫视.备用
+http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225909/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,天津卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8
+#EXTINF:-1 ,天津卫视.备用
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225907/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8
+#EXTINF:-1 ,湖北卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000066/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,黑龙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:-1 ,黑龙江卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 ,辽宁卫视.备用
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225902/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,四川卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,四川卫视.备用
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8
+#EXTINF:-1 ,东南卫视.备用
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028028/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,厦门卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,厦门卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://livepull.sxiptv.cn/live/shanxiweishihd.flv?txSecret=71ace701099e692ac170bf12404a79e1&txTime=63b05c7f
+#EXTINF:-1 ,陕西卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,海南卫视.备用
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,三沙卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 ,三沙卫视.576
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1&c=福建三明移动
+#EXTINF:-1 ,广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,广西卫视.备用.576
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gxws_4000.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225986/index.m3u8
+http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225986/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 ,河北卫视.备用
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河南卫视.备用
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
+#EXTINF:-1 ,云南卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 ,贵州卫视.备用
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000062998/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,吉林卫视
+http://[2409:8087:1070:301:2028::11]:80/wh7f454c46tw4200346826_-520081866/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225959/10000100000000060000000000777681_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,吉林卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/index.m3u8?fmt=ts2hls
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,甘肃卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,内蒙古卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 ,山西卫视.720
+http://liveflash.sxrtv.com/live/sxwshd.flv
+#EXTINF:-1 ,山西卫视576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,宁夏卫视720
+http://livepgc.cmc.ningxiahuangheyun.com/pgc/deb40eb3174c0c2d62c30810f0087d64.m3u8?txSecret=27098501b42eae2199df753a323534df&txTime=6326BD7B
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000016/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,宁夏卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8
+#EXTINF:-1 ,西藏卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8
+#EXTINF:-1 ,新疆卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8
+#EXTINF:-1 ,兵团卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:-1 ,青海卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225727/index.m3u8
+#EXTINF:-1 ,梨园频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,大湾区卫视576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 ,农林卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:-1 ,康巴卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:-1 ,安多卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 ,延边卫视.720
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 ,延边卫视.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 ,汽摩频道.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,靓妆.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225509/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,哈哈炫动.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/index.m3u8
+#EXTINF:-1 ,中国天气.576
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zgqx.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zgqx/1300000/d1.m3u8
+#EXTINF:-1 ,湖南经视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南都市
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南电视剧
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南电影
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南娱乐
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南公共
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南国际
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,金鹰卡通
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南教育
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000368716/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,长沙影视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,芒果剧场
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1&c=福建三明移动
+#EXTINF:-1 ,东方影视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,第一财经
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,第一财经.备用
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1
+#EXTINF:-1 ,东方财经
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 ,峨眉电影
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+#EXTINF:-1 ,M1905电影网
+http://mmitv.top/other/1905.php?id=1905
+#EXTINF:-1 ,南昌1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8
+#EXTINF:-1 ,南昌2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226226/index.m3u8
+#EXTINF:-1 ,南昌3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226228/index.m3u8
+#EXTINF:-1 ,南昌4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226231/index.m3u8
+#EXTINF:-1 ,宁夏公共
+http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
+#EXTINF:-1 ,宁夏经济
+http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
+#EXTINF:-1 ,黑莓电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 ,黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
+
+#EXTINF:-1,CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,CHC动作电影 8M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,CHC家庭影院 8M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,都市剧场[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,全纪实[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,西乡融媒[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,极速汽车[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
+#EXTINF:-1,快乐垂钓[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+#EXTINF:-1,游戏风云[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,悦美生活[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002325/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,茶频道[1920*1080]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 ,超级综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 ,超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 ,超级电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 ,超级电视剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 ,哒啵赛事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 ,哒啵电竞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226265/index.m3u8
+#EXTINF:-1 ,武博世界
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 ,中国功夫
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 ,怡伴健康
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 ,军旅剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,农业致富
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 ,古装剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 ,炫舞未来
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
+#EXTINF:-1 ,潮妈辣婆
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 ,精品体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 ,精品记录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 ,金牌综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 ,家庭剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,精品大剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 ,IPTV1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 ,IPTV2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 ,军事评论
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 ,东北热剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 ,欢乐剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+
+#EXTINF:-1 ,NewTV爱情喜剧
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
+#EXTINF:-1 ,NewTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
+#EXTINF:-1 ,NewTV惊悚悬疑
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
+#EXTINF:-1 ,NewTV海外剧场
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
+
+#EXTINF:-1 ,咪咕视频
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226235/index.m3u8
+#EXTINF:-1 ,咪咕视频
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226238/index.m3u8
+#EXTINF:-1 ,咪咕视频.体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 ,咪咕视频
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226241/index.m3u8
+#EXTINF:-1 ,咪咕视频.体育2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/index.m3u8
+
+#EXTINF:-1,4K电影.1080P
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
+#EXTINF:-1,CBN风尚生活
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4000.m3u8
+#EXTINF:-1,CBN每日影院
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mryy_4000.m3u8
+#EXTINF:-1,CBN幸福剧场
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
+#EXTINF:-1,CBN幸福娱乐
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
+
+#EXTINF:-1 ,求索记录
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1,功夫
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
+#EXTINF:-1,法治天地
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8
+#EXTINF:-1 ,动漫秀场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
+#EXTINF:-1 ,生活时尚
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 ,金色学堂
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332/index.m3u8
+#EXTINF:-1 ,中华特产
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 ,体育赛事
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
+
+#EXTINF:-1,兵器科技高清
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+rtsp://125.88.52.18/PLTV/88888905/224/3221229974/10000100000000060000000011037420_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E2U67mt0WVlTxn4-qKV6NZw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,电视指南高清
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221230003/10000100000000060000000011037421_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EBHePkGqjYN4rI8ecgMjDIg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000002%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,央视台球高清
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221230116/10000100000000060000000011037423_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Egdwsh1RXp5fQuBy7_IblpA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000004%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,高尔夫网球高清
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221229987/10000100000000060000000011037424_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ETwh27NLfFB5S4M6z4yiEwg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000005%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,世界地理高清
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221229959/10000100000000060000000011037426_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EitOVtQcPxFXPmllDB1u98w%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000007%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,怀旧剧场高清
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221230063/10000100000000060000000011037427_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EtPTBU3lbH_24WPpP3v_3NQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000008%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,央视文化精品高清
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221230012/10000100000000060000000011037429_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebwc4e8DirJRb8Zg3L8Qr4A%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000010%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,风云剧场高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221229941/10000100000000060000000011037428_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7En0p5WLOuwVvGl1qIGWWf0g%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000009%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,第一剧场高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221230007/10000100000000060000000011037430_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EpccAWCDK-1830Yc6RZWfcQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000011%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,风云音乐高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221230021/10000100000000060000000011039295_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EKSWHdyQNKw5UgmkIp_Gqlw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000012%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,风云足球高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221229930/10000100000000060000000011037422_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Elo3t0CkPXl-Ytuu5GGG77w%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000003%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,女性时尚高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221229950/10000100000000060000000011037425_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EIh85H3lDd1c-09md5VaRjg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052020061799000006%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,早期教育高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221230068/381196675.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E7ZAmB7vQcxCtNmlyYEztrQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052021062199000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,中国交通
+rtsp://125.88.52.18/PLTV/88888905/224/3221229880/10000100000000060000000009331996_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ExN4JggnVP7QI6gU5xA6Blg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052018082399000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,无线新闻台.720
+http://111.229.84.232/yulin/tvb.php?id=1
+#EXTINF:-1,无线财经体育资讯台.720
+http://111.229.84.232/yulin/tvb.php?id=2
+#EXTINF:-1,香港卫视.576
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,TVB影视.720
+http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
+#EXTINF:-1,经典功夫台.720
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8  
+
+
+#EXTINF:-1,国学
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221228336/10000100000000060000000007935402_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex35rkQmEFUWuTKWstv-NBQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052017041099000018%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,老故事.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8
+http://[2409:8087:4400:20:1:a0f:12:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8
+rtsp://125.88.52.18/PLTV/88888905/224/3221228321/10000100000000060000000007935393_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Eks-gUSt0a0RR0tr7mxgJ2g%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052017041099000012%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,发现之旅.576
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fxzl.m3u8
+
+#EXTINF:-1,中学生.576
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zxs.m3u8
+
+#EXTINF:-1 ,青岛中华美食.576
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
+
+#EXTINF:-1 ,家庭理财.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226333/index.m3u8
+#EXTINF:-1 ,财富天下.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226334/index.m3u8
+#EXTINF:-1 ,环球旅游.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
+#EXTINF:-1 ,摄影频道.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 ,天元围棋.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 ,书画频道.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
+#EXTINF:-1 ,湖南先锋乒羽.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 ,车迷频道.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226347/index.m3u8
+#EXTINF:-1 ,江苏优漫卡通.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 ,棋牌汇.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8
+#EXTINF:-1 ,美食汇.576
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8
+
+#EXTINF:-1,IPTV谍战剧场
+rtsp://125.88.52.18/PLTV/88888905/224/3221227158/10000100000000060000000000937867_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EDrPxmKDwQZeAvzANz-MGng%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000260%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,IPTV相声小品
+rtsp://125.88.52.18/PLTV/88888905/224/3221227135/10000100000000060000000000937845_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EBj7OxtXeBIiluUqB0TAg3Q%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000264%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,IPTV野外
+rtsp://125.88.52.18/PLTV/88888905/224/3221227190/10000100000000060000000000937868_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ec3v9HUsu-gRFqVSH3l_GJw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000262%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,IPTV法治
+rtsp://125.88.52.18/PLTV/88888905/224/3221227155/10000100000000060000000000937846_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EhnFuk8BmN_4Wz5W9nxohmQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000263%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,爱电影
+rtsp://125.88.52.18/PLTV/88888905/224/3221227021/10000100000000060000000000698846_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EwBYmY8M5gZ-50DPG-Y9gLA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000107%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,经典电影
+rtsp://125.88.52.18/PLTV/88888905/224/3221227204/10000100000000060000000000987156_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EsWQFnsCT-Agib29CAIH5Xw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000109%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,爱大剧
+rtsp://125.88.52.18/PLTV/88888905/224/3221227012/10000100000000060000000000698838_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Essti05t9ERLCRwP4wW7r2A%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000146%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,热播剧场
+rtsp://125.88.52.18/PLTV/88888905/224/3221227203/10000100000000060000000000987157_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EIKCHQ9LQvTHse79s5Q5WXg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000108%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,爱综艺
+rtsp://125.88.52.18/PLTV/88888905/224/3221227024/10000100000000060000000000698849_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EI8_fxUZgRjmt7EHXwiBrJg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000104%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,爱体育
+rtsp://125.88.52.18/PLTV/88888905/224/3221227073/10000100000000060000000000698847_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EMyYCPWjOacFS9TzS_WqcnA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000105%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,少儿动画
+rtsp://125.88.52.18/PLTV/88888905/224/3221227070/10000100000000060000000000698839_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EZ5g2nfOkn-p5-xqAyp0pxw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000103%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,魅力时尚
+rtsp://125.88.52.18/PLTV/88888905/224/3221227015/10000100000000060000000000698840_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EeEAcv8mgBpuiGA8GhC3DXA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000106%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,收视指南
+rtsp://125.88.52.18/PLTV/88888905/224/3221227222/10000100000000060000000000990034_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ErK_cGHan75VGV6-Lh8gA8g%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000000000000050000000000000110%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,游戏竞技
+rtsp://125.88.52.18/PLTV/88888905/224/3221228294/10000100000000060000000007935389_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EuYnnR_K4I-HCRHnWZ7wHYg%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052017041099000003%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,PPTV-1
+rtsp://125.88.52.18/PLTV/88888905/224/3221228106/10000100000000060000000007150580_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E1G4pWiN0jtnXIYZwSNWHHA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052016081599000007%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,PPTV-2
+rtsp://125.88.52.18/PLTV/88888905/224/3221228103/10000100000000060000000007150363_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EPxSA6myAHS0UFQDHApBCSQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052016081599000008%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,PPTV-3
+rtsp://125.88.52.18/PLTV/88888905/224/3221228072/10000100000000060000000007150362_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Eu02iHO0bIi01Y3-tlU-CsA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052016081599000009%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,PPTV-4
+rtsp://125.88.52.18/PLTV/88888905/224/3221228020/10000100000000060000000007150361_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Er4fskKZnxep67QXn7i0ykA%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052016081599000010%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
+
+#EXTINF:-1,HBO 360P
+https://s.vdo.ai/vhs/1.m3u8
+#EXTINF:-1,荷兰
+http://red.ipfox.org:8080/osama2022/osama2023/49188
+#EXTINF:-1, TBS AMERICA
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, KBS
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1, TBS 540P
+https://tbs2.mov3.co/hls/tbs.m3u8
+#EXTINF:-1, ESPN1
+http://red.ipfox.org:8080/osama2022/osama2023/49189
+#EXTINF:-1, GO USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, EDGE SPORT
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1, BBC DRAMA
+https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, yamatoanimation
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, J SPORT1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1, J SPORT2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1, J SPORT3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1, Sportv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
+#EXTINF:-1, FTF SPORT
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+#EXTINF:-1, EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1, Motor1 TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, 康熙
+http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+#EXTINF:-1, ASSP SPORT HD
+http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+#EXTINF:-1, 小太阳
+http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
+#EXTINF:-1, 双星
+http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
+#EXTINF:-1, HBO MAX
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115473
+#EXTINF:-1, HBO原创
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
